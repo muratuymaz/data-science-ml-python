@@ -18,5 +18,5 @@ numpy_grades = np.array([50,60,70])
 contest_results = pd.Series(data=[1,2,3,4,5],index=["Atil","Buse","Cem","Derya","Efe"])
 contest_results2 = pd.Series(data=[20,50,10,40,80],index=["Atil","Murat","Merve","Derya","Efe"])
 
-print(contest_results + contest_results2)
+# print(contest_results + contest_results2)
 # key-value eşleşmesi yapar ve ona gore datalari toplar,olmayanlara NaN verir
