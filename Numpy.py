@@ -64,4 +64,3 @@ for i in second_matrix:
 print("1. ve 2. matrixlerin carpimi:")
 for i in first_matrix.dot(second_matrix):
     print(i)
-
